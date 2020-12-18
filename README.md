@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taepd)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taepd&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **taepd/taepd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
