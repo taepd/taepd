@@ -1,11 +1,14 @@
 ### Hi there 👋
 
 <!-- git stats -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taepd&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<div class="pull-left">
+   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taepd&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <!-- lang stats -->
+<div class="pull-right">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taepd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/taepd
 
 
